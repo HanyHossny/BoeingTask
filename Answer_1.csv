@@ -1,0 +1,746 @@
+Airline,Month_num,Passengers_In,Passengers_Out
+Air Caledonie International,1,8291,7336
+Air Caledonie International,2,3889,6148
+Air Caledonie International,3,3957,4409
+Air Caledonie International,4,4965,4911
+Air Caledonie International,5,3996,3786
+Air Caledonie International,6,4001,5143
+Air Caledonie International,7,3969,4200
+Air Caledonie International,8,5575,5017
+Air Caledonie International,9,4377,4832
+Air Caledonie International,10,5962,5901
+Air Caledonie International,11,5233,5542
+Air Caledonie International,12,6944,5827
+Air Canada,1,20122,16999
+Air Canada,2,18173,14098
+Air Canada,3,16966,18414
+Air Canada,4,13149,18147
+Air Canada,5,13557,18280
+Air Canada,6,16202,18943
+Air Canada,7,20502,19483
+Air Canada,8,18096,19464
+Air Canada,9,18211,15858
+Air Canada,10,17104,11799
+Air Canada,11,14694,14857
+Air Canada,12,16792,20523
+Air Chathams,9,90,87
+Air Chathams,10,124,138
+Air Chathams,11,166,137
+Air Chathams,12,169,144
+Air China,1,28053,24187
+Air China,2,27454,22903
+Air China,3,20223,18759
+Air China,4,13555,14829
+Air China,5,11015,14577
+Air China,6,10001,14746
+Air China,7,11095,12879
+Air China,8,11676,13914
+Air China,9,9657,13977
+Air China,10,12003,14687
+Air China,11,16089,20320
+Air China,12,18332,23232
+Air India,1,8510,7573
+Air India,2,7863,6094
+Air India,3,7270,6841
+Air India,4,7901,7867
+Air India,5,7963,6119
+Air India,6,8144,7827
+Air India,7,8395,6145
+Air India,8,8453,7521
+Air India,9,7630,7475
+Air India,10,8121,7491
+Air India,11,7051,7790
+Air India,12,7794,8536
+Air Mauritius,1,3535,3098
+Air Mauritius,2,2010,1417
+Air Mauritius,3,1641,1873
+Air Mauritius,4,1755,2043
+Air Mauritius,5,2040,2088
+Air Mauritius,6,1680,2100
+Air Mauritius,7,2458,2213
+Air Mauritius,8,1751,1808
+Air Mauritius,9,2314,2157
+Air Mauritius,10,2434,2034
+Air Mauritius,11,2028,1786
+Air Mauritius,12,2870,3067
+Air New Zealand,1,144286,133584
+Air New Zealand,2,119061,118649
+Air New Zealand,3,135759,126866
+Air New Zealand,4,124791,116423
+Air New Zealand,5,107654,99812
+Air New Zealand,6,98665,102327
+Air New Zealand,7,120321,118084
+Air New Zealand,8,113093,114887
+Air New Zealand,9,111691,115780
+Air New Zealand,10,123073,124450
+Air New Zealand,11,120886,124781
+Air New Zealand,12,130200,137857
+Air Niugini,1,6776,7716
+Air Niugini,2,5603,5382
+Air Niugini,3,6407,6053
+Air Niugini,4,6540,6949
+Air Niugini,5,5596,5339
+Air Niugini,6,5862,6268
+Air Niugini,7,6832,6941
+Air Niugini,8,6107,6078
+Air Niugini,9,6453,7203
+Air Niugini,10,6578,5925
+Air Niugini,11,5917,6231
+Air Niugini,12,7333,7161
+Air Vanuatu,1,6436,5100
+Air Vanuatu,2,2899,3119
+Air Vanuatu,3,4079,3970
+Air Vanuatu,4,5181,5102
+Air Vanuatu,5,4442,3954
+Air Vanuatu,6,4932,6009
+Air Vanuatu,7,8231,7787
+Air Vanuatu,8,6484,5838
+Air Vanuatu,9,6496,7031
+Air Vanuatu,10,7857,6745
+Air Vanuatu,11,5930,5491
+Air Vanuatu,12,5378,7529
+AirAsia X,1,65337,54196
+AirAsia X,2,50781,33332
+AirAsia X,3,40187,34638
+AirAsia X,4,44710,46104
+AirAsia X,5,46475,38083
+AirAsia X,6,34656,45329
+AirAsia X,7,66794,49450
+AirAsia X,8,44274,38451
+AirAsia X,9,39068,42165
+AirAsia X,10,50097,39247
+AirAsia X,11,37283,38393
+AirAsia X,12,46737,67575
+All Nippon Airways,1,6548,6222
+All Nippon Airways,2,6101,5163
+All Nippon Airways,3,5742,6404
+All Nippon Airways,4,5420,5214
+All Nippon Airways,5,5089,5580
+All Nippon Airways,6,4065,5090
+All Nippon Airways,7,6090,4860
+All Nippon Airways,8,5768,6136
+All Nippon Airways,9,8381,11251
+All Nippon Airways,10,11060,10267
+All Nippon Airways,11,10294,10175
+All Nippon Airways,12,9365,11554
+American Airlines,1,8648,7160
+American Airlines,2,7466,6507
+American Airlines,3,7717,7996
+American Airlines,4,7685,8075
+American Airlines,5,8482,7776
+American Airlines,6,8156,7865
+American Airlines,7,8449,7964
+American Airlines,8,7286,7762
+American Airlines,9,6800,7060
+American Airlines,10,7281,6096
+American Airlines,11,6976,6145
+American Airlines,12,7480,7592
+Asiana Airlines,1,12432,14579
+Asiana Airlines,2,10623,11663
+Asiana Airlines,3,11450,13101
+Asiana Airlines,4,7089,7127
+Asiana Airlines,5,7121,7227
+Asiana Airlines,6,8204,8209
+Asiana Airlines,7,8837,7238
+Asiana Airlines,8,7976,8750
+Asiana Airlines,9,7379,7439
+Asiana Airlines,10,8687,8099
+Asiana Airlines,11,11033,10029
+Asiana Airlines,12,10962,13820
+Batik Air Indonesia,1,6329,3515
+Batik Air Indonesia,2,1623,867
+Batik Air Indonesia,3,1617,1551
+Batik Air Indonesia,4,2796,2880
+Batik Air Indonesia,5,2971,2755
+Batik Air Indonesia,6,3357,4140
+Batik Air Indonesia,7,5041,4489
+Batik Air Indonesia,8,4490,4161
+Batik Air Indonesia,9,4209,4327
+Batik Air Indonesia,10,4954,4032
+Batik Air Indonesia,11,3163,2449
+Batik Air Indonesia,12,2327,4140
+Beijing Capital Airlines,1,5028,4560
+Beijing Capital Airlines,2,4734,4361
+Beijing Capital Airlines,3,4103,3913
+Beijing Capital Airlines,4,3172,3203
+Beijing Capital Airlines,5,2899,2712
+Beijing Capital Airlines,6,3211,3685
+Beijing Capital Airlines,7,5153,4297
+Beijing Capital Airlines,8,4986,4729
+Beijing Capital Airlines,9,4325,4848
+Beijing Capital Airlines,10,4882,3801
+Beijing Capital Airlines,11,3734,4342
+Beijing Capital Airlines,12,4306,5791
+British Airways,1,8870,7576
+British Airways,2,7622,7101
+British Airways,3,6121,7921
+British Airways,4,5856,8331
+British Airways,5,5861,8058
+British Airways,6,5780,6754
+British Airways,7,5890,6693
+British Airways,8,6072,6559
+British Airways,9,7153,6954
+British Airways,10,8669,6190
+British Airways,11,8248,7620
+British Airways,12,7489,8603
+Cathay Pacific Airways,1,95907,75295
+Cathay Pacific Airways,2,84913,71819
+Cathay Pacific Airways,3,73126,75914
+Cathay Pacific Airways,4,83936,87968
+Cathay Pacific Airways,5,71332,78268
+Cathay Pacific Airways,6,69626,83729
+Cathay Pacific Airways,7,80868,72970
+Cathay Pacific Airways,8,74781,82218
+Cathay Pacific Airways,9,76582,78001
+Cathay Pacific Airways,10,90928,74833
+Cathay Pacific Airways,11,71012,74429
+Cathay Pacific Airways,12,80575,100445
+Cebu Pacific Air,1,16158,13545
+Cebu Pacific Air,2,12811,8819
+Cebu Pacific Air,3,10867,9383
+Cebu Pacific Air,4,13156,11624
+Cebu Pacific Air,5,12165,10027
+Cebu Pacific Air,6,10837,12105
+Cebu Pacific Air,7,13921,9935
+Cebu Pacific Air,8,11001,9019
+Cebu Pacific Air,9,9941,9531
+Cebu Pacific Air,10,13064,10243
+Cebu Pacific Air,11,9493,9832
+Cebu Pacific Air,12,11023,13350
+China Airlines,1,32838,25724
+China Airlines,2,20258,17123
+China Airlines,3,17489,20150
+China Airlines,4,21928,24056
+China Airlines,5,16192,17755
+China Airlines,6,20315,24206
+China Airlines,7,27966,24868
+China Airlines,8,23242,25334
+China Airlines,9,20752,25200
+China Airlines,10,23745,22779
+China Airlines,11,19552,23187
+China Airlines,12,22181,32961
+China Eastern Airlines,1,50330,41945
+China Eastern Airlines,2,47541,40275
+China Eastern Airlines,3,31185,29415
+China Eastern Airlines,4,31263,33201
+China Eastern Airlines,5,32392,33800
+China Eastern Airlines,6,29729,33752
+China Eastern Airlines,7,36012,29967
+China Eastern Airlines,8,33170,35479
+China Eastern Airlines,9,30961,34001
+China Eastern Airlines,10,38057,35441
+China Eastern Airlines,11,37204,41974
+China Eastern Airlines,12,39130,50172
+China Southern Airlines,1,84428,73956
+China Southern Airlines,2,78942,68859
+China Southern Airlines,3,53269,49943
+China Southern Airlines,4,54390,55228
+China Southern Airlines,5,45571,45594
+China Southern Airlines,6,41960,45516
+China Southern Airlines,7,46644,42786
+China Southern Airlines,8,46541,46636
+China Southern Airlines,9,42619,43593
+China Southern Airlines,10,46531,45043
+China Southern Airlines,11,52067,53318
+China Southern Airlines,12,66008,74824
+Citilink Indonesia,11,1043,1248
+Citilink Indonesia,12,2142,4226
+Delta Air Lines,1,8428,7372
+Delta Air Lines,2,7590,6424
+Delta Air Lines,3,8289,8246
+Delta Air Lines,4,7612,8135
+Delta Air Lines,5,8471,7377
+Delta Air Lines,6,8200,7692
+Delta Air Lines,7,8549,7757
+Delta Air Lines,8,8028,7884
+Delta Air Lines,9,8002,7733
+Delta Air Lines,10,8270,6677
+Delta Air Lines,11,8174,7134
+Delta Air Lines,12,8208,7613
+Donghai Airlines,1,720,421
+Donghai Airlines,2,630,489
+Donghai Airlines,3,332,283
+Donghai Airlines,4,282,209
+Donghai Airlines,5,215,179
+Donghai Airlines,6,240,293
+Donghai Airlines,7,548,251
+Donghai Airlines,8,296,323
+Donghai Airlines,9,307,230
+Donghai Airlines,10,309,337
+Donghai Airlines,11,153,176
+Donghai Airlines,12,190,458
+Emirates,1,173150,135101
+Emirates,2,125534,88192
+Emirates,3,101540,120468
+Emirates,4,101614,127882
+Emirates,5,94419,115627
+Emirates,6,105525,133714
+Emirates,7,145940,111550
+Emirates,8,116802,128224
+Emirates,9,128559,123760
+Emirates,10,144069,82236
+Emirates,11,101890,97339
+Emirates,12,133280,150758
+Etihad Airways,1,56934,42852
+Etihad Airways,2,40683,30152
+Etihad Airways,3,27312,36637
+Etihad Airways,4,38250,48128
+Etihad Airways,5,31958,51096
+Etihad Airways,6,39179,53202
+Etihad Airways,7,55043,44185
+Etihad Airways,8,48200,53814
+Etihad Airways,9,51182,48843
+Etihad Airways,10,54175,33853
+Etihad Airways,11,37582,38975
+Etihad Airways,12,42759,50568
+Eva Air,1,6514,5596
+Eva Air,2,4605,4181
+Eva Air,3,4329,4600
+Eva Air,4,4097,4317
+Eva Air,5,4676,4312
+Eva Air,6,2840,3191
+Eva Air,7,2337,1137
+Eva Air,8,5771,5903
+Eva Air,9,4448,4620
+Eva Air,10,5372,4514
+Eva Air,11,4054,4562
+Eva Air,12,7407,9981
+Federal Express Corporation,1,0,0
+Federal Express Corporation,2,0,0
+Federal Express Corporation,3,0,0
+Federal Express Corporation,4,0,0
+Federal Express Corporation,5,0,0
+Federal Express Corporation,6,0,0
+Federal Express Corporation,7,0,0
+Federal Express Corporation,8,0,0
+Federal Express Corporation,9,0,0
+Federal Express Corporation,10,0,0
+Federal Express Corporation,11,0,0
+Federal Express Corporation,12,0,0
+Fiji Airways,1,26844,22497
+Fiji Airways,2,14682,14383
+Fiji Airways,3,16997,18031
+Fiji Airways,4,20873,23540
+Fiji Airways,5,20347,20470
+Fiji Airways,6,19771,23622
+Fiji Airways,7,24859,23038
+Fiji Airways,8,19380,19425
+Fiji Airways,9,17838,20385
+Fiji Airways,10,23534,21793
+Fiji Airways,11,22180,21109
+Fiji Airways,12,22285,26091
+Garuda Indonesia,1,36343,27185
+Garuda Indonesia,2,23195,16279
+Garuda Indonesia,3,18627,19480
+Garuda Indonesia,4,22656,26031
+Garuda Indonesia,5,20888,19590
+Garuda Indonesia,6,23945,32531
+Garuda Indonesia,7,32757,31372
+Garuda Indonesia,8,25759,26672
+Garuda Indonesia,9,26064,27775
+Garuda Indonesia,10,26896,24344
+Garuda Indonesia,11,21756,21507
+Garuda Indonesia,12,22271,30714
+Hainan Airlines,1,13380,10477
+Hainan Airlines,2,11601,9798
+Hainan Airlines,3,9704,8229
+Hainan Airlines,4,10927,12254
+Hainan Airlines,5,9082,9350
+Hainan Airlines,6,7581,10579
+Hainan Airlines,7,13704,9286
+Hainan Airlines,8,10875,13126
+Hainan Airlines,9,7994,9760
+Hainan Airlines,10,10920,9374
+Hainan Airlines,11,6033,8537
+Hainan Airlines,12,6257,10791
+Hawaiian Airlines,1,11585,9975
+Hawaiian Airlines,2,7893,6709
+Hawaiian Airlines,3,7233,8891
+Hawaiian Airlines,4,9303,10179
+Hawaiian Airlines,5,10546,10385
+Hawaiian Airlines,6,7637,9541
+Hawaiian Airlines,7,10307,9761
+Hawaiian Airlines,8,7735,9730
+Hawaiian Airlines,9,9534,11333
+Hawaiian Airlines,10,11855,10974
+Hawaiian Airlines,11,8335,8716
+Hawaiian Airlines,12,9060,11076
+Indonesia AirAsia,1,15508,12904
+Indonesia AirAsia,2,11632,9904
+Indonesia AirAsia,3,12554,12401
+Indonesia AirAsia,4,13873,14223
+Indonesia AirAsia,5,14199,13631
+Indonesia AirAsia,6,13677,14528
+Indonesia AirAsia,7,15344,14787
+Indonesia AirAsia,8,14684,13965
+Indonesia AirAsia,9,14296,14209
+Indonesia AirAsia,10,15342,14150
+Indonesia AirAsia,11,13880,12864
+Indonesia AirAsia,12,12272,13655
+Japan Airlines,1,10390,9835
+Japan Airlines,2,9699,8962
+Japan Airlines,3,8517,9728
+Japan Airlines,4,7751,8241
+Japan Airlines,5,8473,10236
+Japan Airlines,6,8696,10105
+Japan Airlines,7,10831,8475
+Japan Airlines,8,10195,10871
+Japan Airlines,9,8810,11070
+Japan Airlines,10,10712,10528
+Japan Airlines,11,10782,11081
+Japan Airlines,12,9414,11635
+Jetstar,1,173290,161665
+Jetstar,2,143772,132168
+Jetstar,3,148059,146319
+Jetstar,4,149934,146970
+Jetstar,5,138962,138661
+Jetstar,6,138158,144458
+Jetstar,7,169580,159634
+Jetstar,8,160071,159405
+Jetstar,9,158667,161114
+Jetstar,10,167420,152287
+Jetstar,11,149024,148408
+Jetstar,12,157645,173411
+Jetstar Asia,1,3639,3309
+Jetstar Asia,2,3657,2794
+Jetstar Asia,3,3364,2960
+Jetstar Asia,4,3735,3536
+Jetstar Asia,5,3944,3585
+Jetstar Asia,6,4033,4392
+Jetstar Asia,7,4416,3236
+Jetstar Asia,8,3530,3161
+Jetstar Asia,9,3186,3047
+Jetstar Asia,10,3401,2612
+Jetstar Asia,11,2874,2986
+Jetstar Asia,12,2372,4543
+Korean Air,1,19782,15510
+Korean Air,2,17162,14635
+Korean Air,3,12798,15575
+Korean Air,4,10198,11530
+Korean Air,5,10774,11199
+Korean Air,6,11050,11534
+Korean Air,7,12117,9860
+Korean Air,8,11095,11998
+Korean Air,9,10626,10819
+Korean Air,10,13023,11292
+Korean Air,11,15114,14018
+Korean Air,12,16894,18520
+LATAM Airlines,1,10973,10164
+LATAM Airlines,2,9915,9504
+LATAM Airlines,3,10294,11213
+LATAM Airlines,4,9733,9384
+LATAM Airlines,5,8948,8352
+LATAM Airlines,6,8126,8632
+LATAM Airlines,7,10609,9908
+LATAM Airlines,8,9569,9251
+LATAM Airlines,9,8633,8782
+LATAM Airlines,10,7845,7436
+LATAM Airlines,11,8665,8360
+LATAM Airlines,12,8214,8214
+Malaysia Airlines,1,52255,44582
+Malaysia Airlines,2,45358,35630
+Malaysia Airlines,3,42014,34760
+Malaysia Airlines,4,45820,45312
+Malaysia Airlines,5,45669,38056
+Malaysia Airlines,6,39370,49268
+Malaysia Airlines,7,59214,46996
+Malaysia Airlines,8,54222,48991
+Malaysia Airlines,9,48006,48091
+Malaysia Airlines,10,53012,44081
+Malaysia Airlines,11,47545,47438
+Malaysia Airlines,12,45079,60666
+Malindo Air,1,17870,11988
+Malindo Air,2,13009,8087
+Malindo Air,3,10620,10689
+Malindo Air,4,13993,15385
+Malindo Air,5,14567,13189
+Malindo Air,6,13708,16574
+Malindo Air,7,18539,17202
+Malindo Air,8,19841,18993
+Malindo Air,9,20075,20436
+Malindo Air,10,22338,19192
+Malindo Air,11,18186,17751
+Malindo Air,12,13943,21755
+Nauru Airlines,1,664,771
+Nauru Airlines,2,812,461
+Nauru Airlines,3,832,663
+Nauru Airlines,4,715,799
+Nauru Airlines,5,764,552
+Nauru Airlines,6,706,847
+Nauru Airlines,7,914,630
+Nauru Airlines,8,729,730
+Nauru Airlines,9,905,740
+Nauru Airlines,10,776,779
+Nauru Airlines,11,557,610
+Nauru Airlines,12,634,617
+Pacific Air Express,1,0,0
+Pacific Air Express,2,0,0
+Pacific Air Express,3,0,0
+Pacific Air Express,4,0,0
+Pacific Air Express,5,0,0
+Pacific Air Express,6,0,0
+Pacific Air Express,7,0,0
+Pacific Air Express,8,0,0
+Pacific Air Express,9,0,0
+Pacific Air Express,10,0,0
+Pacific Air Express,11,0,0
+Pacific Air Express,12,0,0
+Philippine Airlines,1,17290,16883
+Philippine Airlines,2,12429,9939
+Philippine Airlines,3,11904,10922
+Philippine Airlines,4,14960,16059
+Philippine Airlines,5,14407,11761
+Philippine Airlines,6,11523,12768
+Philippine Airlines,7,15168,12367
+Philippine Airlines,8,14040,12683
+Philippine Airlines,9,12102,14166
+Philippine Airlines,10,15512,13525
+Philippine Airlines,11,13379,15107
+Philippine Airlines,12,12217,20595
+Polar Air Cargo,1,0,0
+Polar Air Cargo,2,0,0
+Polar Air Cargo,3,0,0
+Polar Air Cargo,4,0,0
+Polar Air Cargo,5,0,0
+Polar Air Cargo,6,0,0
+Polar Air Cargo,7,0,0
+Polar Air Cargo,8,0,0
+Polar Air Cargo,9,0,0
+Polar Air Cargo,10,0,0
+Polar Air Cargo,11,0,0
+Polar Air Cargo,12,0,0
+Qantas Airways,1,361673,328363
+Qantas Airways,2,289261,260729
+Qantas Airways,3,300687,298800
+Qantas Airways,4,306564,319292
+Qantas Airways,5,296092,294663
+Qantas Airways,6,281172,302677
+Qantas Airways,7,339264,308595
+Qantas Airways,8,305397,310526
+Qantas Airways,9,290880,306017
+Qantas Airways,10,322813,299862
+Qantas Airways,11,303377,298822
+Qantas Airways,12,318509,358093
+Qatar Airways,1,63705,52813
+Qatar Airways,2,45766,39166
+Qatar Airways,3,31556,54388
+Qatar Airways,4,44220,61871
+Qatar Airways,5,40025,64307
+Qatar Airways,6,45850,63993
+Qatar Airways,7,65387,57800
+Qatar Airways,8,58704,64663
+Qatar Airways,9,57628,57742
+Qatar Airways,10,58766,40604
+Qatar Airways,11,46588,46247
+Qatar Airways,12,53521,59850
+Royal Brunei Airlines,1,6696,6373
+Royal Brunei Airlines,2,5588,4645
+Royal Brunei Airlines,3,3433,4515
+Royal Brunei Airlines,4,4823,5750
+Royal Brunei Airlines,5,3587,4583
+Royal Brunei Airlines,6,3503,6871
+Royal Brunei Airlines,7,7669,6250
+Royal Brunei Airlines,8,6667,7663
+Royal Brunei Airlines,9,6569,7020
+Royal Brunei Airlines,10,7833,5678
+Royal Brunei Airlines,11,4718,5418
+Royal Brunei Airlines,12,6494,8725
+Samoa Airways,1,2257,1334
+Samoa Airways,2,1098,776
+Samoa Airways,3,1145,937
+Samoa Airways,4,1173,1170
+Samoa Airways,5,1423,1268
+Samoa Airways,6,1336,1671
+Samoa Airways,7,1617,1677
+Samoa Airways,8,1806,1742
+Samoa Airways,9,1905,1871
+Samoa Airways,10,1947,1633
+Samoa Airways,11,1688,1587
+Samoa Airways,12,1831,2231
+Scoot Tigerair,1,36117,29692
+Scoot Tigerair,2,30897,22651
+Scoot Tigerair,3,27068,24459
+Scoot Tigerair,4,25097,26513
+Scoot Tigerair,5,20786,19017
+Scoot Tigerair,6,22114,27368
+Scoot Tigerair,7,32257,28619
+Scoot Tigerair,8,26502,25240
+Scoot Tigerair,9,28729,28918
+Scoot Tigerair,10,34260,28980
+Scoot Tigerair,11,34309,35686
+Scoot Tigerair,12,41460,55202
+Sichuan Airlines,1,5554,4557
+Sichuan Airlines,2,5449,4220
+Sichuan Airlines,3,4392,3990
+Sichuan Airlines,4,5214,5694
+Sichuan Airlines,5,3727,4551
+Sichuan Airlines,6,3408,5473
+Sichuan Airlines,7,6123,4239
+Sichuan Airlines,8,4536,4647
+Sichuan Airlines,9,3864,4526
+Sichuan Airlines,10,5151,4510
+Sichuan Airlines,11,4216,5085
+Sichuan Airlines,12,4121,7048
+Silk Air,1,7153,5810
+Silk Air,2,4632,3762
+Silk Air,3,3765,4090
+Silk Air,4,4881,5581
+Silk Air,5,4794,5550
+Silk Air,6,5560,7107
+Silk Air,7,8892,7782
+Silk Air,8,7472,9126
+Silk Air,9,7485,6811
+Silk Air,10,8325,7340
+Silk Air,11,6348,6792
+Silk Air,12,6038,9621
+Singapore Airlines,1,168246,145467
+Singapore Airlines,2,145765,117067
+Singapore Airlines,3,136824,133947
+Singapore Airlines,4,144605,150160
+Singapore Airlines,5,138414,138862
+Singapore Airlines,6,138426,160142
+Singapore Airlines,7,170605,146399
+Singapore Airlines,8,151355,148586
+Singapore Airlines,9,150069,146679
+Singapore Airlines,10,165042,141769
+Singapore Airlines,11,145818,146466
+Singapore Airlines,12,143594,172933
+Solomon Airlines,1,1690,1411
+Solomon Airlines,2,1142,1141
+Solomon Airlines,3,1628,1409
+Solomon Airlines,4,1512,1302
+Solomon Airlines,5,1618,1508
+Solomon Airlines,6,1621,1609
+Solomon Airlines,7,1995,1677
+Solomon Airlines,8,1828,1475
+Solomon Airlines,9,1720,1869
+Solomon Airlines,10,1913,1640
+Solomon Airlines,11,1865,1693
+Solomon Airlines,12,1755,1830
+South African Airways,1,6901,6297
+South African Airways,2,5007,4018
+South African Airways,3,5345,5754
+South African Airways,4,6403,6797
+South African Airways,5,5406,5655
+South African Airways,6,4951,5709
+South African Airways,7,6692,5824
+South African Airways,8,5829,5661
+South African Airways,9,6301,6654
+South African Airways,10,6696,4996
+South African Airways,11,4431,4712
+South African Airways,12,5809,7193
+SriLankan Airlines,1,8550,7431
+SriLankan Airlines,2,7476,5457
+SriLankan Airlines,3,7989,6227
+SriLankan Airlines,4,7719,7043
+SriLankan Airlines,5,7543,5963
+SriLankan Airlines,6,7125,7438
+SriLankan Airlines,7,8283,6476
+SriLankan Airlines,8,8127,6899
+SriLankan Airlines,9,7776,7307
+SriLankan Airlines,10,8327,6576
+SriLankan Airlines,11,7475,7114
+SriLankan Airlines,12,7667,8701
+Tasman Cargo Airlines,1,0,0
+Tasman Cargo Airlines,2,0,0
+Tasman Cargo Airlines,3,0,0
+Tasman Cargo Airlines,4,0,0
+Tasman Cargo Airlines,5,0,0
+Tasman Cargo Airlines,6,0,0
+Tasman Cargo Airlines,7,0,0
+Tasman Cargo Airlines,8,0,0
+Tasman Cargo Airlines,9,0,0
+Tasman Cargo Airlines,10,0,0
+Tasman Cargo Airlines,11,0,0
+Tasman Cargo Airlines,12,0,0
+Thai AirAsia X,6,392,686
+Thai AirAsia X,7,5233,3357
+Thai AirAsia X,8,2952,2378
+Thai AirAsia X,9,2430,2564
+Thai AirAsia X,10,3345,2581
+Thai AirAsia X,11,2723,2780
+Thai AirAsia X,12,2932,4096
+Thai Airways International,1,37513,35968
+Thai Airways International,2,34170,30799
+Thai Airways International,3,29489,31079
+Thai Airways International,4,32751,34645
+Thai Airways International,5,29246,33209
+Thai Airways International,6,28034,37011
+Thai Airways International,7,39001,37145
+Thai Airways International,8,36781,36273
+Thai Airways International,9,34112,35862
+Thai Airways International,10,38420,36259
+Thai Airways International,11,35357,40097
+Thai Airways International,12,35859,43757
+Tianjin Airlines,1,5731,3680
+Tianjin Airlines,2,5212,4070
+Tianjin Airlines,3,2909,2074
+Tianjin Airlines,4,1419,1351
+Tianjin Airlines,5,1352,1135
+Tianjin Airlines,6,1118,1408
+Tianjin Airlines,7,1926,1217
+Tianjin Airlines,8,1503,1369
+Tianjin Airlines,9,1551,1963
+Tianjin Airlines,10,2034,1239
+Tianjin Airlines,11,3032,3859
+Tianjin Airlines,12,3596,5183
+United Airlines,1,28760,25435
+United Airlines,2,22724,19307
+United Airlines,3,21740,25574
+United Airlines,4,19035,21344
+United Airlines,5,20030,19763
+United Airlines,6,19449,20575
+United Airlines,7,21442,20299
+United Airlines,8,18973,20698
+United Airlines,9,18082,18999
+United Airlines,10,20013,16362
+United Airlines,11,22971,21004
+United Airlines,12,27205,31293
+United Parcel Service,1,0,0
+United Parcel Service,2,0,0
+United Parcel Service,3,0,0
+United Parcel Service,4,0,0
+United Parcel Service,5,0,0
+United Parcel Service,6,0,0
+United Parcel Service,7,0,0
+United Parcel Service,8,0,0
+United Parcel Service,9,0,0
+United Parcel Service,10,0,0
+United Parcel Service,11,0,0
+United Parcel Service,12,0,0
+Vietnam Airlines,1,18338,18351
+Vietnam Airlines,2,17831,14487
+Vietnam Airlines,3,17228,15146
+Vietnam Airlines,4,17103,17731
+Vietnam Airlines,5,15309,14241
+Vietnam Airlines,6,15096,17822
+Vietnam Airlines,7,20295,18835
+Vietnam Airlines,8,15797,14496
+Vietnam Airlines,9,14769,15846
+Vietnam Airlines,10,16588,13498
+Vietnam Airlines,11,13996,14850
+Vietnam Airlines,12,16236,18911
+Virgin Australia,1,143277,119826
+Virgin Australia,2,101154,96358
+Virgin Australia,3,111055,108165
+Virgin Australia,4,123908,123984
+Virgin Australia,5,108497,106356
+Virgin Australia,6,104598,115004
+Virgin Australia,7,134444,121821
+Virgin Australia,8,120965,126402
+Virgin Australia,9,114399,119805
+Virgin Australia,10,129605,123215
+Virgin Australia,11,115184,116001
+Virgin Australia,12,124346,145963
+Xiamen Airlines,1,10860,9869
+Xiamen Airlines,2,10128,8240
+Xiamen Airlines,3,8815,7548
+Xiamen Airlines,4,9689,9692
+Xiamen Airlines,5,7969,8160
+Xiamen Airlines,6,8653,9072
+Xiamen Airlines,7,9744,7816
+Xiamen Airlines,8,10019,9099
+Xiamen Airlines,9,8859,9187
+Xiamen Airlines,10,9759,8367
+Xiamen Airlines,11,9071,9041
+Xiamen Airlines,12,9427,11512
